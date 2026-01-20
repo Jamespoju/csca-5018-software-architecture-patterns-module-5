@@ -1,4 +1,4 @@
-Email Verifier
+# Email Verifier
 This project is based on starter code provided as part of the CSCA 5018 course materials and has been modified by me for coursework requirements.
 
 ⚠️ Disclaimer
@@ -14,7 +14,6 @@ This repository is maintained solely as a personal academic record.
 No license is granted. All rights reserved.
 
 # Email Verifier
-
 An app for verifying email addresses in a registration flow, which is
 designed to handle very high throughput.
 
